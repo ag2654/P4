@@ -1,0 +1,9 @@
+/*<!-- DEVELOPER: Albion Gashi, IS117-003, Fall 2024 -->*/
+.jumbotron {
+  background-image: url("../images/bg.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 100px 25px;
+  margin-bottom: 30px;
+}
